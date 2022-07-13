@@ -20,7 +20,10 @@ environment for the individual components.
 # Get started
 
 ```
+git clone https://github.com/GrGadget/GrGadget-main.git
+mkdir build && cd build
 module load $dependencies
-meson $path_sources
+cp ../GrGadget-main/examples/Config.sh .
+meson ../GrGadget-main
 ninja
 ```
