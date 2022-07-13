@@ -1,0 +1,9 @@
+[submodule "subprojects/LATfield2"]
+	path = subprojects/LATfield2
+	url = https://github.com/GrGadget/LATfield2.git
+[submodule "subprojects/gevolution-1.2"]
+	path = subprojects/gevolution-1.2
+	url = https://github.com/GrGadget/gevolution-1.2.git
+[submodule "subprojects/Gadget4"]
+	path = subprojects/Gadget4
+	url = https://github.com/GrGadget/Gadget4.git
